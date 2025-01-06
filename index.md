@@ -11,7 +11,7 @@ Previously, I was a PhD intern at the Bank of England.
 Climate Change, Adaptation, and Sovereign Risk  
 <details>
 <summary>Abstract</summary>
-</details>
+</details> <br>
 
 The Carbon Premium and Policy Risk Exposure: A Text-Based Approach    
 <details>
