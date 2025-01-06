@@ -1,10 +1,7 @@
 title: Sarah Duffy
-description: |
-  Ph.D. Candidate
-  
-  Department of Economics
-  
-  University of Oxford
-
+description: >
+  Ph.D. Candidate<br><br>
+  Department of Economics<br><br>
+  University of Oxford<br><br>
 show_downloads: false
 theme: jekyll-theme-minimal

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hello! I am a PhD candidate in Economics at Oxford studying [your research area]. [Add more details about your research interests and background]
+Hello! I am a PhD candidate in Economics at Oxford. I study the macroeconomic and financial effects of climate change and climate policy. My research combines 
 
 ## Research Papers
 
