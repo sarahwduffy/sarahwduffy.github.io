@@ -6,14 +6,14 @@ Hello! I am a PhD candidate in Economics at Oxford. I study the macroeconomic an
 
 Previously, I was a PhD intern at the Bank of England. 
 
-## Research Papers
+## <span style="font-size: 1.2em;">Research Papers</span>
 
-Climate Change, Adaptation, and Sovereign Risk  
+**Climate Change, Adaptation, and Sovereign Risk**  
 <details>
 <summary>Abstract</summary>
 </details> <br>
 
-The Carbon Premium and Policy Risk Exposure: A Text-Based Approach    
+**The Carbon Premium and Policy Risk Exposure: A Text-Based Approach**      
 <details>
 <summary>Abstract</summary>
 
