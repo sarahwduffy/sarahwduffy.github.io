@@ -4,9 +4,9 @@ layout: default
 
 Hello! I am a PhD candidate in Economics at Oxford. I study the macroeconomic and financial effects of climate change and climate policy. My research combines structural models from international economics and finance with empirical evidence, utilising text based and machine learning methods. 
 
-Previously, I was a PhD intern at the Bank of England. 
+Previously, I was a PhD intern at the Bank of England.  <br>
 
-## <span style="font-size: 1em;">Research Papers</span>
+## <span style="font-size: 0.8em;">Research Papers</span>
 
 **Climate Change, Adaptation, and Sovereign Risk**  
 <details>
