@@ -5,6 +5,6 @@ description: >
   University of Oxford<br><br>
   <a href="#">CV</a> | <a href="https://www.economics.ox.ac.uk/people/sarah-duffy">Oxford Website</a><br>
   <a href="mailto:sarah.duffy@economics.ac.uk">Email</a> | <a href="#">LinkedIn</a>
-logo: photo.jpg <br><br>
+logo: photo.jpg
 show_downloads: false
 theme: jekyll-theme-minimal
