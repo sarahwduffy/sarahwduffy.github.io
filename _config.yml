@@ -2,9 +2,9 @@ title: Sarah Duffy
 description: >
   Ph.D. Candidate<br>
   Department of Economics<br>
-  University of Oxford <br>
- CV | Oxford Website <br>
- Email| LinkedIn
+  University of Oxford<br>
+  <a href="#">CV</a> | <a href="#">Oxford Website</a><br>
+  <a href="#">Email</a> | <a href="#">LinkedIn</a>
 logo: photo.jpg
 show_downloads: false
 theme: jekyll-theme-minimal
