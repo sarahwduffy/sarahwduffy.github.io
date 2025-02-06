@@ -10,7 +10,7 @@ Previously, I was a PhD intern at the Bank of England.  <br><br>
 
 ## <span style="font-size: 0.8em;">Research Papers</span>
 
-**Climate Change, Adaptation, and Sovereign Risk**
+**Climate Change, Adaptation, and Sovereign Risk**  
 *Draft available upon request*  
 <details>
 <summary>Abstract</summary>
@@ -28,7 +28,7 @@ Shifts in climate policy stringency have heterogeneous effects on firms’ profi
 
 ## <span style="font-size: 0.8em;">Work in Progress</span>
 
-**Climate Tariffs, Firm Heterogeneity, and Productivity**
+**Climate Tariffs, Firm Heterogeneity, and Productivity**  
 with <a href="https://sites.google.com/site/martinbodenstein/">Martin Bodenstein</a>, <a href="https://sites.google.com/site/federicodipace/home">Federico Di Pace</a>, <a href="https://sites.google.com/site/aydandoganpersonalsite/home">Aydan Dogan</a> and <a href="https://sites.google.com/view/marco-garofalo/home">Marco Garofalo</a>  
 <details>
 <summary>Abstract</summary>
