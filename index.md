@@ -13,6 +13,8 @@ Previously, I was a PhD intern at the Bank of England.  <br><br>
 **Climate Change, Adaptation, and Sovereign Risk**  
 <details>
 <summary>Abstract</summary>
+
+Many heavily indebted economies are also highly exposed to natural disasters. As climate change makes these disasters more frequent and severe, the incentive to invest in adaptation to build resilience grows, but how does sovereign risk affect this motive? Using a novel measure of adaptation derived from government budgets I show that countries with lower sovereign ratings invest less in adaptive capital. Moreover, natural disasters increase the cost of borrowing for these countries. I embed these mechanisms in a sovereign default model showing that default risk could either increase or decrease optimal adaptation relative to a benchmark with perfect financial markets. Limited commitment tightens the budget constraint while also creating an additional incentive to adapt in order to reduce borrowing costs. For emerging market economies the first channel dominates and sovereign risk restricts adaptation. These economies suffer from an `adaptation trap' dynamic: high borrowing costs restrict adaptation, leading to higher climate damages in the future which increase borrowing costs further. I conclude by showing that debt relief policies can be effective in improving climate resilience, sometimes at no cost to investors.
 </details> <br>
 
 **The Carbon Premium and Policy Risk Exposure: A Text-Based Approach**      
