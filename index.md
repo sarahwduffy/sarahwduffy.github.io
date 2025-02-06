@@ -34,6 +34,13 @@ with <a href="https://sites.google.com/site/martinbodenstein/">Martin Bodenstein
 <summary>Abstract</summary>
 </details> <br>
 
+**Disasters and Global Imbalances**   
+with <a href="https://sites.google.com/site/andreapferrero/">Andrea Ferrero</a>     
+<details>
+<summary>Abstract</summary>
+</details> <br><br>
+
+
 **Market Neutrality and Climate Non-Neutrality**      
 <details>
 <summary>Abstract</summary>
