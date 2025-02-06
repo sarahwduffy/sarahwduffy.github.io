@@ -22,4 +22,16 @@ Many heavily indebted economies are also highly exposed to natural disasters. As
 <summary>Abstract</summary>
 
 Shifts in climate policy stringency have heterogeneous effects on firms’ profitability. Does the market price this risk? This paper provides new evidence on this question, utilising a supervised machine learning algorithm to construct a firm-level measure of climate policy risk exposure. Firms exposed to climate policy risk have negative abnormal returns on climate policy announcement days. I build a set of such dates and characterize abnormal return responses using Risk Factors discussions in 10-K filings. The algorithm uncovers predictors of policy risk exposure in the text which are used to construct an exposure score for each firm. This exposure score is correlated with emissions, environmental lobbying behaviour, and is predictive out of sample. Higher exposure is not associated with a premium. Green preference shifts are considered as a mechanism to rationalize this result. I find that empirically identified preference shocks can partly explain the lack of a climate policy risk premium.
-</details>
+</details> <br><br>
+
+## <span style="font-size: 0.8em;">Work in Progress</span>
+
+**Climate Tariffs, Firm Heterogeneity, and Productivity**  
+<details>
+<summary>Abstract</summary>
+</details> <br>
+
+**Market Neutrality and Climate Non-Neutrality**      
+<details>
+<summary>Abstract</summary>
+</details> <br><br>
