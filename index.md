@@ -16,8 +16,7 @@ Hello! I am a PhD candidate in Economics at Oxford. I study the macroeconomic an
 Many emerging markets face high borrowing costs and exposure to natural disasters. How will fiscal constraints affect the adaptation to, and therefore the losses from, climate change in such economies? A sovereign default model augmented with natural disasters and endogenous adaptation predicts that i) climate change increases borrowing costs, ii) adaptation reduces borrowing costs, and iii) default risk constrains adaptation. These economies suffer from an `adaptation trap': high borrowing costs restrict adaptation, leading to higher losses from disasters and higher borrowing costs in the future. To test these predictions I construct a novel measure of adaptation using text analysis to identify adaptation expenditures in government budgets. Consistent with the model, I document a robust positive relationship between sovereign ratings and adaptation as well as a positive causal effect of cyclone strikes on default risk that is attenuated by adaptation. The sovereign risk- adaptation channel is quantitatively important in the estimated model. In the Caribbean $10\%$ of GDP losses from cyclones are due to default risk. This loss increases with climate change but can be mitigated by debt relief policies.
 </details> <br>
 
-**The Carbon Premium and Policy Risk Exposure: A Text-Based Approach** 
-*Draft available upon request*     
+**<a href="https://sarahwduffy.github.io/Carbon_Premium.pdf">The Carbon Premium and Policy Risk Exposure: A Text-Based Approach</a>**    
 <details>
 <summary>Abstract</summary>
 
