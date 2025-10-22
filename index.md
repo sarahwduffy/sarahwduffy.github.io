@@ -40,12 +40,11 @@ with <a href="https://sites.google.com/site/andreapferrero/">Andrea Ferrero</a>
 </details> <br>
 
 
-**Market Neutrality and Climate Non-Neutrality**      
+**Market Neutrality and Climate Non-Neutrality**  
+*<a href="https://sarahwduffy.github.io/QE.pdf">2023 Draft</a>*
 <details>
 <summary>Abstract</summary>
 
   Tilting central bank asset purchases towards green bonds - Green QE - has been suggested as a way for central banks to mitigate their environmental impact while supporting the transition to a low carbon economy. I use a two sector E-DSGE model with financial frictions and imperfectly substitutable green and brown bonds to assess this proposal. The model is calibrated to the Euro Area at quarterly frequency, incorporating empirical findings on the brown tilt of the ECB portfolio under the status quo `market neutrality' principle. Green QE is shown to achieve the same macro-stabilization outcomes as brown QE without the corresponding detrimental emissions. Moreover a shift in the ECB portfolio towards green bonds can lead to a substantial emissions decrease, at least in the short run. Turning to the question of transition risk, I show that a green QE rule can protect against the risk of a `green recession' caused by a sudden, unexpected increase in the carbon price.
 </details> <br><br>
-
-*<a href="https://sarahwduffy.github.io/QE.pdf">2023 Draft</a>*
 
