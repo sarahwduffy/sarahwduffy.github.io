@@ -30,13 +30,11 @@ Shifts in climate policy stringency have heterogeneous effects on firms’ profi
 **Climate Tariffs, Firm Heterogeneity, and Productivity**  
 with <a href="https://sites.google.com/site/martinbodenstein/">Martin Bodenstein</a>, <a href="https://sites.google.com/site/federicodipace/home">Federico Di Pace</a>, <a href="https://sites.google.com/site/aydandoganpersonalsite/home">Aydan Dogan</a> and <a href="https://sites.google.com/view/marco-garofalo/home">Marco Garofalo</a>  
 <details>
-<summary>Abstract</summary>
 </details> <br>
 
 **Disasters and Global Imbalances**   
 with <a href="https://sites.google.com/site/andreapferrero/">Andrea Ferrero</a>     
 <details>
-<summary>Abstract</summary>
 </details> <br>
 
 
