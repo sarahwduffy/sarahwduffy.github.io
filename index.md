@@ -12,7 +12,7 @@ I am on the 2025-2026 Job Market! <br><br>
 
 **<a href="https://sarahwduffy.github.io/Duffy_JMP.pdf">Climate Change, Adaptation, and Sovereign Risk</a>**  
 *Job Market Paper*  <br>
-*Winner: <a href="https://e-axes.org/prize/">E-Axes Forum Research Prize</a> *
+*Winner: <a href="https://e-axes.org/prize/">E-Axes Forum Research Prize</a>*
 <details>
 <summary>Abstract</summary>
 
